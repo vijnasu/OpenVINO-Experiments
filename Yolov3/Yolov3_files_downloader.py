@@ -21,7 +21,7 @@ for url in urls:
     print ('Downloading ' + filename)
     if sys.version_info.major > 2:
         import urllib.request
-        urllib.request.urlretrieve(url, filename, progress)
+        urllib.request.urlretrieve(url, os.path.join("../tensorflow-yolo-v3", filename), progress)
     else:
         import urllib
-        urllib.urlretrieve(url, filename, progress)
+        urllib.urlretrieve(url, os.path.join("../tensorflow-yolo-v3", filename), progress)
