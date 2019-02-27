@@ -6,9 +6,6 @@ Validated on Intel® Distribution of OpenVINO Toolkit version 2018.5.456
 
 ## Demo
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-
-[[!Watch the Tutorial video](https://gifs.com/gif/yolov3-openvino-oVYxvN)](https://www.youtube.com/watch?v=FaqVhvJ6-Uc)
+[![Watch the Tutorial video](https://gifs.com/gif/yolov3-openvino-oVYxvN)](https://www.youtube.com/watch?v=FaqVhvJ6-Uc)
 
 For more details please refer https://software.intel.com/en-us/articles/OpenVINO-Using-TensorFlow
