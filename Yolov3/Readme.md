@@ -4,4 +4,6 @@ Sofware Requirements:-
 Windows 10, VS2015/17, cmake, git bash, Anaconda with Intel® Distribution of Python 3.6, jupyter notebook 
 Validated on Intel® Distribution of OpenVINO Toolkit version 2018.5.456
 
+[!Watch the Tutorial video](https://www.youtube.com/watch?v=FaqVhvJ6-Uc)
+
 For more details please refer https://software.intel.com/en-us/articles/OpenVINO-Using-TensorFlow
